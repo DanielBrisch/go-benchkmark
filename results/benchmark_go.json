@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "load_time_sec": 0.2386332,
+  "query_time_sec": 0.0403702,
+  "peak_memory_mb": 0,
+  "dataset_size": "1_000_000 rows"
+}
